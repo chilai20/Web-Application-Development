@@ -1,0 +1,32 @@
+#container{
+    
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -8px;
+    height: 600px;
+}
+header{
+    height: 100px;
+    padding:10px 20px;
+	background-color:#acb3b9;"
+}
+
+#content{
+    height: 400px;
+    background-color:#f2f2f2;
+    padding: 20px;
+    text-align: center;
+    
+}
+#content p{
+    padding: 10px;
+    text-align: justify;
+}
+
+#coffe4e{
+float: right; 
+margin: 30px 12px 3px 12px; 
+border: 4px solid #acb3b9;
+} 
+

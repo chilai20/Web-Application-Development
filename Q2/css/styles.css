@@ -1,0 +1,39 @@
+body {
+    background-color: grey;
+    color: azure;
+	text-align: center;
+    font-size: 1.1em;
+	  }
+a{	text-decoration: none;
+	color: inherit;  
+	}
+
+a:hover {
+	color: blue;	
+			}
+h1 {
+    color: azure;
+		}
+#mydetails {
+    font-size: 1em;
+			}
+			
+#top_div {
+   position: relative;
+   left: 0;
+   bottom: 0;
+	top: auto;
+   width: 100%;
+   background-color: Dimgrey;
+   text-align: center;
+		}
+			
+#footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: Dimgrey;
+   text-align: center;
+		}
+

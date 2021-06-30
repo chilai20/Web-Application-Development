@@ -1,0 +1,73 @@
+
+header h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+#content{
+    height: 500px;
+    background-color: white;
+    padding-top: 60px;
+    text-align: center;
+	width: 100%;
+	    
+}
+
+#g1{
+    font-size: 80pt;
+    color: blue;
+    font-weight: 500;
+}
+#o1{
+    font-size: 80pt;
+    color: red;
+    font-weight: 500;
+}
+#o{
+    font-size: 80pt;
+    color: yellow;
+    font-weight: 500;
+}
+#g{
+    font-size: 80pt;
+    color: blue;
+    font-weight: 500;
+    font-family:'Times New Roman';
+}
+#l{
+    font-size: 80pt;
+    color: green;
+    font-weight: 500;
+}
+#e{
+    font-size: 80pt;
+    color: red;
+    font-weight: 500;
+    font-family:'Josefin Sans';
+}
+
+#searchbar{
+    height: 40px;
+    width: 680px;
+}
+button{
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+}
+
+a{	text-decoration: none;
+	color: inherit;  
+	}
+
+a:hover {
+	color: blue;	
+			}
+footer{
+    text-align: center;
+    font-size: 1.1em;
+    background-color: #DCDCDC;
+    clear: both;
+    padding: 10px;
+	margin-left: -6px;
+    margin-right: -6px;
+}
